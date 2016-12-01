@@ -1,0 +1,7 @@
+gingham
+calico
+plaid
+fleece
+denim
+twill
+chino
